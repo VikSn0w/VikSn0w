@@ -30,6 +30,9 @@ __Check out my GitHub repository:__
     <a href="https://github.com/viksn0w/DevBox">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=DevBox" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/viksn0w/StudiSync">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=StudiSync" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
