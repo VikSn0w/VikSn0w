@@ -8,7 +8,7 @@
 I'm Vittorio Picone!
 
 Computer Science student👨‍🎓 | Software Engineer👨‍💻 | Rugby Enthusiast🏉 | Ducatista🏍
-- <i>Currently:</i> Software Department Chief at [Green Tech Solution SRL](https://www.greentechsolution.it)
+- <i>Currently:</i> AI Researcher & Developer at [Addway Advisory SRL](https://www.addway.it)
 - <i>Graduating:</i> Computer Science at [UniParthenope](https://www.uniparthenope.it)
 
 <h2>💻 I'm Currently workng on</h2>
