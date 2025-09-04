@@ -19,6 +19,7 @@ Computer Science student👨‍🎓 | Software Engineer👨‍💻 | Rugby Enthu
 - Low-Level Programming
 - iOS Apps
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=VikSn0w&theme=onedark)](https://github.com/VikSn0w/github-profile-trophy)
 
 __Check out my GitHub repository:__
 
