@@ -25,14 +25,17 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/viksn0w/FluidSimulation-SFML-CXX">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=FluidSimulation-SFML-CXX" alt="GitHub Stats" />
+    <a href="https://github.com/viksn0w/MindBogglerCPP">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=MindBogglerCPP" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/viksn0w/DevBox">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=DevBox" alt="GitHub Stats" />
+    <a href="https://github.com/viksn0w/MindBoggler">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=MindBoggler" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/viksn0w/StudiSync">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=StudiSync" alt="GitHub Stats" />
+    </a>
+     <a href="https://github.com/viksn0w/CIPPOTTO">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=CIPPOTTO" alt="GitHub Stats" />
     </a>
   </p>
 </div>
