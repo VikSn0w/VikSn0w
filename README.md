@@ -28,6 +28,9 @@ __Check out my GitHub repository:__
     <a href="https://github.com/viksn0w/MindBogglerCPP">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=MindBogglerCPP" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/viksn0w/RegressionModelBikeSales">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=RegressionModelBikeSales" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/viksn0w/MindBoggler">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=MindBoggler" alt="GitHub Stats" />
     </a>
@@ -39,9 +42,6 @@ __Check out my GitHub repository:__
     </a>
     <a href="https://github.com/viksn0w/68k">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=68k" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/viksn0w/RegressionModelBikeSales">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=viksn0w&repo=RegressionModelBikeSales" alt="GitHub Stats" />
     </a>
   </p>
 </div>
